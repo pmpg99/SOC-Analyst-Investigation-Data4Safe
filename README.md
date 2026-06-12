@@ -1,5 +1,7 @@
 # SOC Incident Investigation Lab — Data4Safe Simulation
 
+ - The full technical report is available in Portuguese; an English Executive Summary is provided below / in the repository. - 
+
 Hi, I'm Pedro. This is a hands-on project I built to simulate a real-world SOC incident investigation — from detecting suspicious network behavior to remediating risks in a controlled environment.
 
 
